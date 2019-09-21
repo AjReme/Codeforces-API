@@ -13,4 +13,4 @@ It's a simple *well-documentated* ***Codeforces.com API*** wrapper.
 
 ## What is the requirements? ##
 
-You'll need the latest versions of `requests` and `tabulate` installed.
+You'll need the latest versions of `requests`, `robobrowser` and `tabulate` installed.
